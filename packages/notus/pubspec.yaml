@@ -9,13 +9,11 @@ environment:
 
 dependencies:
   collection: ^1.14.6
-  url_launcher: ^5.0.0
-  quill_delta: ^1.0.0
-  notus: ^0.1.0
   meta: ^1.1.0
+  quill_delta: ^1.0.0
   quiver_hashcode: ^2.0.0
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
   pedantic: ^1.0.0
+  test: ^1.10.0
+  test_coverage: ^0.4.0
